@@ -1,4 +1,4 @@
-# Build Status Badge: ![](https://github.com/automate6500/python-web-app-cicd/workflows/Pipeline/badge.svg)
+# Build Status Badge: ![](https://github.com/thomaschuajk/python-web-app-cicd/workflows/Pipeline/badge.svg)
 
 # Use Case: Continuous Integration
 Demonstrating continuous integration with GitHub Actions
